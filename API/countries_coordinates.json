@@ -1,0 +1,978 @@
+{
+  "AFG": {
+    "latitude": 33.0,
+    "longitude": 65.0
+  },
+  "ALB": {
+    "latitude": 41.0,
+    "longitude": 20.0
+  },
+  "DZA": {
+    "latitude": 28.0,
+    "longitude": 3.0
+  },
+  "ASM": {
+    "latitude": -14.3333,
+    "longitude": -170.0
+  },
+  "AND": {
+    "latitude": 42.5,
+    "longitude": 1.6
+  },
+  "AGO": {
+    "latitude": -12.5,
+    "longitude": 18.5
+  },
+  "AIA": {
+    "latitude": 18.25,
+    "longitude": -63.1667
+  },
+  "ATA": {
+    "latitude": -90.0,
+    "longitude": 0.0
+  },
+  "ATG": {
+    "latitude": 17.05,
+    "longitude": -61.8
+  },
+  "ARG": {
+    "latitude": -34.0,
+    "longitude": -64.0
+  },
+  "ARM": {
+    "latitude": 40.0,
+    "longitude": 45.0
+  },
+  "ABW": {
+    "latitude": 12.5,
+    "longitude": -69.9667
+  },
+  "AUS": {
+    "latitude": -27.0,
+    "longitude": 133.0
+  },
+  "AUT": {
+    "latitude": 47.3333,
+    "longitude": 13.3333
+  },
+  "AZE": {
+    "latitude": 40.5,
+    "longitude": 47.5
+  },
+  "BHS": {
+    "latitude": 24.25,
+    "longitude": -76.0
+  },
+  "BHR": {
+    "latitude": 26.0,
+    "longitude": 50.55
+  },
+  "BGD": {
+    "latitude": 24.0,
+    "longitude": 90.0
+  },
+  "BRB": {
+    "latitude": 13.1667,
+    "longitude": -59.5333
+  },
+  "BLR": {
+    "latitude": 53.0,
+    "longitude": 28.0
+  },
+  "BEL": {
+    "latitude": 50.8333,
+    "longitude": 4.0
+  },
+  "BLZ": {
+    "latitude": 17.25,
+    "longitude": -88.75
+  },
+  "BEN": {
+    "latitude": 9.5,
+    "longitude": 2.25
+  },
+  "BMU": {
+    "latitude": 32.3333,
+    "longitude": -64.75
+  },
+  "BTN": {
+    "latitude": 27.5,
+    "longitude": 90.5
+  },
+  "BOL": {
+    "latitude": -17.0,
+    "longitude": -65.0
+  },
+  "BIH": {
+    "latitude": 44.0,
+    "longitude": 18.0
+  },
+  "BWA": {
+    "latitude": -22.0,
+    "longitude": 24.0
+  },
+  "BVT": {
+    "latitude": -54.4333,
+    "longitude": 3.4
+  },
+  "BRA": {
+    "latitude": -10.0,
+    "longitude": -55.0
+  },
+  "IOT": {
+    "latitude": -6.0,
+    "longitude": 71.5
+  },
+  "BRN": {
+    "latitude": 4.5,
+    "longitude": 114.6667
+  },
+  "BGR": {
+    "latitude": 43.0,
+    "longitude": 25.0
+  },
+  "BFA": {
+    "latitude": 13.0,
+    "longitude": -2.0
+  },
+  "BDI": {
+    "latitude": -3.5,
+    "longitude": 30.0
+  },
+  "KHM": {
+    "latitude": 13.0,
+    "longitude": 105.0
+  },
+  "CMR": {
+    "latitude": 6.0,
+    "longitude": 12.0
+  },
+  "CAN": {
+    "latitude": 60.0,
+    "longitude": -95.0
+  },
+  "CPV": {
+    "latitude": 16.0,
+    "longitude": -24.0
+  },
+  "CYM": {
+    "latitude": 19.5,
+    "longitude": -80.5
+  },
+  "CAF": {
+    "latitude": 7.0,
+    "longitude": 21.0
+  },
+  "TCD": {
+    "latitude": 15.0,
+    "longitude": 19.0
+  },
+  "CHL": {
+    "latitude": -30.0,
+    "longitude": -71.0
+  },
+  "CHN": {
+    "latitude": 35.0,
+    "longitude": 105.0
+  },
+  "CXR": {
+    "latitude": -10.5,
+    "longitude": 105.6667
+  },
+  "CCK": {
+    "latitude": -12.5,
+    "longitude": 96.8333
+  },
+  "COL": {
+    "latitude": 4.0,
+    "longitude": -72.0
+  },
+  "COM": {
+    "latitude": -12.1667,
+    "longitude": 44.25
+  },
+  "COG": {
+    "latitude": -1.0,
+    "longitude": 15.0
+  },
+  "COD": {
+    "latitude": 0.0,
+    "longitude": 25.0
+  },
+  "COK": {
+    "latitude": -21.2333,
+    "longitude": -159.7667
+  },
+  "CRI": {
+    "latitude": 10.0,
+    "longitude": -84.0
+  },
+  "CIV": {
+    "latitude": 8.0,
+    "longitude": -5.0
+  },
+  "HRV": {
+    "latitude": 45.1667,
+    "longitude": 15.5
+  },
+  "CUB": {
+    "latitude": 21.5,
+    "longitude": -80.0
+  },
+  "CYP": {
+    "latitude": 35.0,
+    "longitude": 33.0
+  },
+  "CZE": {
+    "latitude": 49.75,
+    "longitude": 15.5
+  },
+  "DNK": {
+    "latitude": 56.0,
+    "longitude": 10.0
+  },
+  "DJI": {
+    "latitude": 11.5,
+    "longitude": 43.0
+  },
+  "DMA": {
+    "latitude": 15.4167,
+    "longitude": -61.3333
+  },
+  "DOM": {
+    "latitude": 19.0,
+    "longitude": -70.6667
+  },
+  "ECU": {
+    "latitude": -2.0,
+    "longitude": -77.5
+  },
+  "EGY": {
+    "latitude": 27.0,
+    "longitude": 30.0
+  },
+  "SLV": {
+    "latitude": 13.8333,
+    "longitude": -88.9167
+  },
+  "GNQ": {
+    "latitude": 2.0,
+    "longitude": 10.0
+  },
+  "ERI": {
+    "latitude": 15.0,
+    "longitude": 39.0
+  },
+  "EST": {
+    "latitude": 59.0,
+    "longitude": 26.0
+  },
+  "ETH": {
+    "latitude": 8.0,
+    "longitude": 38.0
+  },
+  "FLK": {
+    "latitude": -51.75,
+    "longitude": -59.0
+  },
+  "FRO": {
+    "latitude": 62.0,
+    "longitude": -7.0
+  },
+  "FJI": {
+    "latitude": -18.0,
+    "longitude": 175.0
+  },
+  "FIN": {
+    "latitude": 64.0,
+    "longitude": 26.0
+  },
+  "FRA": {
+    "latitude": 46.0,
+    "longitude": 2.0
+  },
+  "GUF": {
+    "latitude": 4.0,
+    "longitude": -53.0
+  },
+  "PYF": {
+    "latitude": -15.0,
+    "longitude": -140.0
+  },
+  "ATF": {
+    "latitude": -43.0,
+    "longitude": 67.0
+  },
+  "GAB": {
+    "latitude": -1.0,
+    "longitude": 11.75
+  },
+  "GMB": {
+    "latitude": 13.4667,
+    "longitude": -16.5667
+  },
+  "GEO": {
+    "latitude": 42.0,
+    "longitude": 43.5
+  },
+  "DEU": {
+    "latitude": 51.0,
+    "longitude": 9.0
+  },
+  "GHA": {
+    "latitude": 8.0,
+    "longitude": -2.0
+  },
+  "GIB": {
+    "latitude": 36.1833,
+    "longitude": -5.3667
+  },
+  "GRC": {
+    "latitude": 39.0,
+    "longitude": 22.0
+  },
+  "GRL": {
+    "latitude": 72.0,
+    "longitude": -40.0
+  },
+  "GRD": {
+    "latitude": 12.1167,
+    "longitude": -61.6667
+  },
+  "GLP": {
+    "latitude": 16.25,
+    "longitude": -61.5833
+  },
+  "GUM": {
+    "latitude": 13.4667,
+    "longitude": 144.7833
+  },
+  "GTM": {
+    "latitude": 15.5,
+    "longitude": -90.25
+  },
+  "GGY": {
+    "latitude": 49.5,
+    "longitude": -2.56
+  },
+  "GIN": {
+    "latitude": 11.0,
+    "longitude": -10.0
+  },
+  "GNB": {
+    "latitude": 12.0,
+    "longitude": -15.0
+  },
+  "GUY": {
+    "latitude": 5.0,
+    "longitude": -59.0
+  },
+  "HTI": {
+    "latitude": 19.0,
+    "longitude": -72.4167
+  },
+  "HMD": {
+    "latitude": -53.1,
+    "longitude": 72.5167
+  },
+  "VAT": {
+    "latitude": 41.9,
+    "longitude": 12.45
+  },
+  "HND": {
+    "latitude": 15.0,
+    "longitude": -86.5
+  },
+  "HKG": {
+    "latitude": 22.25,
+    "longitude": 114.1667
+  },
+  "HUN": {
+    "latitude": 47.0,
+    "longitude": 20.0
+  },
+  "ISL": {
+    "latitude": 65.0,
+    "longitude": -18.0
+  },
+  "IND": {
+    "latitude": 20.0,
+    "longitude": 77.0
+  },
+  "IDN": {
+    "latitude": -5.0,
+    "longitude": 120.0
+  },
+  "IRN": {
+    "latitude": 32.0,
+    "longitude": 53.0
+  },
+  "IRQ": {
+    "latitude": 33.0,
+    "longitude": 44.0
+  },
+  "IRL": {
+    "latitude": 53.0,
+    "longitude": -8.0
+  },
+  "IMN": {
+    "latitude": 54.23,
+    "longitude": -4.55
+  },
+  "ISR": {
+    "latitude": 31.5,
+    "longitude": 34.75
+  },
+  "ITA": {
+    "latitude": 42.8333,
+    "longitude": 12.8333
+  },
+  "JAM": {
+    "latitude": 18.25,
+    "longitude": -77.5
+  },
+  "JPN": {
+    "latitude": 36.0,
+    "longitude": 138.0
+  },
+  "JEY": {
+    "latitude": 49.21,
+    "longitude": -2.13
+  },
+  "JOR": {
+    "latitude": 31.0,
+    "longitude": 36.0
+  },
+  "KAZ": {
+    "latitude": 48.0,
+    "longitude": 68.0
+  },
+  "KEN": {
+    "latitude": 1.0,
+    "longitude": 38.0
+  },
+  "KIR": {
+    "latitude": 1.4167,
+    "longitude": 173.0
+  },
+  "PRK": {
+    "latitude": 40.0,
+    "longitude": 127.0
+  },
+  "KOR": {
+    "latitude": 37.0,
+    "longitude": 127.5
+  },
+  "KWT": {
+    "latitude": 29.3375,
+    "longitude": 47.6581
+  },
+  "KGZ": {
+    "latitude": 41.0,
+    "longitude": 75.0
+  },
+  "LAO": {
+    "latitude": 18.0,
+    "longitude": 105.0
+  },
+  "LVA": {
+    "latitude": 57.0,
+    "longitude": 25.0
+  },
+  "LBN": {
+    "latitude": 33.8333,
+    "longitude": 35.8333
+  },
+  "LSO": {
+    "latitude": -29.5,
+    "longitude": 28.5
+  },
+  "LBR": {
+    "latitude": 6.5,
+    "longitude": -9.5
+  },
+  "LBY": {
+    "latitude": 25.0,
+    "longitude": 17.0
+  },
+  "LIE": {
+    "latitude": 47.1667,
+    "longitude": 9.5333
+  },
+  "LTU": {
+    "latitude": 56.0,
+    "longitude": 24.0
+  },
+  "LUX": {
+    "latitude": 49.75,
+    "longitude": 6.1667
+  },
+  "MAC": {
+    "latitude": 22.1667,
+    "longitude": 113.55
+  },
+  "MKD": {
+    "latitude": 41.8333,
+    "longitude": 22.0
+  },
+  "MDG": {
+    "latitude": -20.0,
+    "longitude": 47.0
+  },
+  "MWI": {
+    "latitude": -13.5,
+    "longitude": 34.0
+  },
+  "MYS": {
+    "latitude": 2.5,
+    "longitude": 112.5
+  },
+  "MDV": {
+    "latitude": 3.25,
+    "longitude": 73.0
+  },
+  "MLI": {
+    "latitude": 17.0,
+    "longitude": -4.0
+  },
+  "MLT": {
+    "latitude": 35.8333,
+    "longitude": 14.5833
+  },
+  "MHL": {
+    "latitude": 9.0,
+    "longitude": 168.0
+  },
+  "MTQ": {
+    "latitude": 14.6667,
+    "longitude": -61.0
+  },
+  "MRT": {
+    "latitude": 20.0,
+    "longitude": -12.0
+  },
+  "MUS": {
+    "latitude": -20.2833,
+    "longitude": 57.55
+  },
+  "MYT": {
+    "latitude": -12.8333,
+    "longitude": 45.1667
+  },
+  "MEX": {
+    "latitude": 23.0,
+    "longitude": -102.0
+  },
+  "FSM": {
+    "latitude": 6.9167,
+    "longitude": 158.25
+  },
+  "MDA": {
+    "latitude": 47.0,
+    "longitude": 29.0
+  },
+  "MCO": {
+    "latitude": 43.7333,
+    "longitude": 7.4
+  },
+  "MNG": {
+    "latitude": 46.0,
+    "longitude": 105.0
+  },
+  "MNE": {
+    "latitude": 42.0,
+    "longitude": 19.0
+  },
+  "MSR": {
+    "latitude": 16.75,
+    "longitude": -62.2
+  },
+  "MAR": {
+    "latitude": 32.0,
+    "longitude": -5.0
+  },
+  "MOZ": {
+    "latitude": -18.25,
+    "longitude": 35.0
+  },
+  "MMR": {
+    "latitude": 22.0,
+    "longitude": 98.0
+  },
+  "NAM": {
+    "latitude": -22.0,
+    "longitude": 17.0
+  },
+  "NRU": {
+    "latitude": -0.5333,
+    "longitude": 166.9167
+  },
+  "NPL": {
+    "latitude": 28.0,
+    "longitude": 84.0
+  },
+  "NLD": {
+    "latitude": 52.5,
+    "longitude": 5.75
+  },
+  "ANT": {
+    "latitude": 12.25,
+    "longitude": -68.75
+  },
+  "NCL": {
+    "latitude": -21.5,
+    "longitude": 165.5
+  },
+  "NZL": {
+    "latitude": -41.0,
+    "longitude": 174.0
+  },
+  "NIC": {
+    "latitude": 13.0,
+    "longitude": -85.0
+  },
+  "NER": {
+    "latitude": 16.0,
+    "longitude": 8.0
+  },
+  "NGA": {
+    "latitude": 10.0,
+    "longitude": 8.0
+  },
+  "NIU": {
+    "latitude": -19.0333,
+    "longitude": -169.8667
+  },
+  "NFK": {
+    "latitude": -29.0333,
+    "longitude": 167.95
+  },
+  "MNP": {
+    "latitude": 15.2,
+    "longitude": 145.75
+  },
+  "NOR": {
+    "latitude": 62.0,
+    "longitude": 10.0
+  },
+  "OMN": {
+    "latitude": 21.0,
+    "longitude": 57.0
+  },
+  "PAK": {
+    "latitude": 30.0,
+    "longitude": 70.0
+  },
+  "PLW": {
+    "latitude": 7.5,
+    "longitude": 134.5
+  },
+  "PSE": {
+    "latitude": 32.0,
+    "longitude": 35.25
+  },
+  "PAN": {
+    "latitude": 9.0,
+    "longitude": -80.0
+  },
+  "PNG": {
+    "latitude": -6.0,
+    "longitude": 147.0
+  },
+  "PRY": {
+    "latitude": -23.0,
+    "longitude": -58.0
+  },
+  "PER": {
+    "latitude": -10.0,
+    "longitude": -76.0
+  },
+  "PHL": {
+    "latitude": 13.0,
+    "longitude": 122.0
+  },
+  "PCN": {
+    "latitude": -24.7,
+    "longitude": -127.4
+  },
+  "POL": {
+    "latitude": 52.0,
+    "longitude": 20.0
+  },
+  "PRT": {
+    "latitude": 39.5,
+    "longitude": -8.0
+  },
+  "PRI": {
+    "latitude": 18.25,
+    "longitude": -66.5
+  },
+  "QAT": {
+    "latitude": 25.5,
+    "longitude": 51.25
+  },
+  "REU": {
+    "latitude": -21.1,
+    "longitude": 55.6
+  },
+  "ROU": {
+    "latitude": 46.0,
+    "longitude": 25.0
+  },
+  "RUS": {
+    "latitude": 60.0,
+    "longitude": 100.0
+  },
+  "RWA": {
+    "latitude": -2.0,
+    "longitude": 30.0
+  },
+  "SHN": {
+    "latitude": -15.9333,
+    "longitude": -5.7
+  },
+  "KNA": {
+    "latitude": 17.3333,
+    "longitude": -62.75
+  },
+  "LCA": {
+    "latitude": 13.8833,
+    "longitude": -61.1333
+  },
+  "SPM": {
+    "latitude": 46.8333,
+    "longitude": -56.3333
+  },
+  "VCT": {
+    "latitude": 13.25,
+    "longitude": -61.2
+  },
+  "WSM": {
+    "latitude": -13.5833,
+    "longitude": -172.3333
+  },
+  "SMR": {
+    "latitude": 43.7667,
+    "longitude": 12.4167
+  },
+  "STP": {
+    "latitude": 1.0,
+    "longitude": 7.0
+  },
+  "SAU": {
+    "latitude": 25.0,
+    "longitude": 45.0
+  },
+  "SEN": {
+    "latitude": 14.0,
+    "longitude": -14.0
+  },
+  "SRB": {
+    "latitude": 44.0,
+    "longitude": 21.0
+  },
+  "SYC": {
+    "latitude": -4.5833,
+    "longitude": 55.6667
+  },
+  "SLE": {
+    "latitude": 8.5,
+    "longitude": -11.5
+  },
+  "SGP": {
+    "latitude": 1.3667,
+    "longitude": 103.8
+  },
+  "SVK": {
+    "latitude": 48.6667,
+    "longitude": 19.5
+  },
+  "SVN": {
+    "latitude": 46.0,
+    "longitude": 15.0
+  },
+  "SLB": {
+    "latitude": -8.0,
+    "longitude": 159.0
+  },
+  "SOM": {
+    "latitude": 10.0,
+    "longitude": 49.0
+  },
+  "ZAF": {
+    "latitude": -29.0,
+    "longitude": 24.0
+  },
+  "SGS": {
+    "latitude": -54.5,
+    "longitude": -37.0
+  },
+  "SSD": {
+    "latitude": 8.0,
+    "longitude": 30.0
+  },
+  "ESP": {
+    "latitude": 40.0,
+    "longitude": -4.0
+  },
+  "LKA": {
+    "latitude": 7.0,
+    "longitude": 81.0
+  },
+  "SDN": {
+    "latitude": 15.0,
+    "longitude": 30.0
+  },
+  "SUR": {
+    "latitude": 4.0,
+    "longitude": -56.0
+  },
+  "SJM": {
+    "latitude": 78.0,
+    "longitude": 20.0
+  },
+  "SWZ": {
+    "latitude": -26.5,
+    "longitude": 31.5
+  },
+  "SWE": {
+    "latitude": 62.0,
+    "longitude": 15.0
+  },
+  "CHE": {
+    "latitude": 47.0,
+    "longitude": 8.0
+  },
+  "SYR": {
+    "latitude": 35.0,
+    "longitude": 38.0
+  },
+  "TWN": {
+    "latitude": 23.5,
+    "longitude": 121.0
+  },
+  "TJK": {
+    "latitude": 39.0,
+    "longitude": 71.0
+  },
+  "TZA": {
+    "latitude": -6.0,
+    "longitude": 35.0
+  },
+  "THA": {
+    "latitude": 15.0,
+    "longitude": 100.0
+  },
+  "TLS": {
+    "latitude": -8.55,
+    "longitude": 125.5167
+  },
+  "TGO": {
+    "latitude": 8.0,
+    "longitude": 1.1667
+  },
+  "TKL": {
+    "latitude": -9.0,
+    "longitude": -172.0
+  },
+  "TON": {
+    "latitude": -20.0,
+    "longitude": -175.0
+  },
+  "TTO": {
+    "latitude": 11.0,
+    "longitude": -61.0
+  },
+  "TUN": {
+    "latitude": 34.0,
+    "longitude": 9.0
+  },
+  "TUR": {
+    "latitude": 39.0,
+    "longitude": 35.0
+  },
+  "TKM": {
+    "latitude": 40.0,
+    "longitude": 60.0
+  },
+  "TCA": {
+    "latitude": 21.75,
+    "longitude": -71.5833
+  },
+  "TUV": {
+    "latitude": -8.0,
+    "longitude": 178.0
+  },
+  "UGA": {
+    "latitude": 1.0,
+    "longitude": 32.0
+  },
+  "UKR": {
+    "latitude": 49.0,
+    "longitude": 32.0
+  },
+  "ARE": {
+    "latitude": 24.0,
+    "longitude": 54.0
+  },
+  "GBR": {
+    "latitude": 54.0,
+    "longitude": -2.0
+  },
+  "USA": {
+    "latitude": 38.0,
+    "longitude": -97.0
+  },
+  "UMI": {
+    "latitude": 19.2833,
+    "longitude": 166.6
+  },
+  "URY": {
+    "latitude": -33.0,
+    "longitude": -56.0
+  },
+  "UZB": {
+    "latitude": 41.0,
+    "longitude": 64.0
+  },
+  "VUT": {
+    "latitude": -16.0,
+    "longitude": 167.0
+  },
+  "VEN": {
+    "latitude": 8.0,
+    "longitude": -66.0
+  },
+  "VNM": {
+    "latitude": 16.0,
+    "longitude": 106.0
+  },
+  "VGB": {
+    "latitude": 18.5,
+    "longitude": -64.5
+  },
+  "VIR": {
+    "latitude": 18.3333,
+    "longitude": -64.8333
+  },
+  "WLF": {
+    "latitude": -13.3,
+    "longitude": -176.2
+  },
+  "ESH": {
+    "latitude": 24.5,
+    "longitude": -13.0
+  },
+  "YEM": {
+    "latitude": 15.0,
+    "longitude": 48.0
+  },
+  "ZMB": {
+    "latitude": -15.0,
+    "longitude": 30.0
+  },
+  "ZWE": {
+    "latitude": -20.0,
+    "longitude": 30.0
+  }
+}
