@@ -1,0 +1,1 @@
+web: gunicorn Natural_Disasters_API.wsgi
